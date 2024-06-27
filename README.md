@@ -1,1 +1,1 @@
-# eartheco
+# eartheco - an environmental website
